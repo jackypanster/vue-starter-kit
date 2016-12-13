@@ -17,3 +17,12 @@ npm install -g jue-cli
 ```bash
 jue-cli <project-name>
 ```
+### Run
+```bash
+npm run
+```
+
+### Test
+```bash
+npm test
+```
