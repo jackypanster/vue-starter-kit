@@ -1,16 +1,22 @@
 ## jue-cli
 
-A customized CLI for scaffolding Vue.js projects based on [vue-cli] (https://github.com/vuejs/vue-cli).
+A customized scaffolding Vue.js project similar to [react-redux-starter-kit] (https://github.com/davezuko/react-redux-starter-kit).
 
-Besides the webpack/vue-loader/etc, it aims to provide the following extra features:
+It aims to provide the following features with simple use case:
 
-+ Integrates with Bootstraps and basic example
-+ Includes the vue-router and how to use it in the SPA
-+ Wraps up MongoDB for quickly CRUD prototyping.
++ vuex
++ webpack
++ express
++ babel
++ eslint
++ vue-loader
++ bootstrap
++ vue-router
++ mongoDB/mongoose
 
 ### Installation
 ```bash
-git clone <this_started_project>
+git clone https://github.com/davezuko/react-redux-starter-kit.git <my-project-name>
 npm install
 ```
 
