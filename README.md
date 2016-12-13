@@ -25,7 +25,7 @@ While developing, you will probably rely mostly on `npm start`; however, there a
 
 |`npm run <script>`|Description|
 |------------------|-----------|
-|`start`|Serves your app at `localhost:3000`. HMR will be enabled in development.|
+|`start`|Serves your app at `localhost:3000`. |
 |`compile`|Compiles the application to disk (`~/dist` by default).|
 |`dev`|Same as `npm start`, but enables nodemon for the server as well.|
 |`test`|Runs unit tests with Karma and generates a coverage report.|
