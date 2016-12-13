@@ -10,13 +10,10 @@ Besides the webpack/vue-loader/etc, it aims to provide the following extra featu
 
 ### Installation
 ```bash
-npm install -g jue-cli
+git clone <this_started_project>
+npm install
 ```
 
-### Usage
-```bash
-jue-cli <project-name>
-```
 ### Run
 ```bash
 npm run
