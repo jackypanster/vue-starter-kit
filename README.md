@@ -2,7 +2,7 @@
 
 A customized CLI for scaffolding Vue.js projects based on [vue-cli] (https://github.com/vuejs/vue-cli).
 
-It aims to provide the following extra features:
+Besides the webpack/vue-loader/etc, it aims to provide the following extra features:
 
 + Integrates with Bootstraps and basic example
 + Includes the vue-router and how to use it in the SPA
